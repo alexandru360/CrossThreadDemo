@@ -1,0 +1,12 @@
+C:\2_Work\MyTests\CrossThreadDemo\CrossThreadDemo\bin\Debug\CrossThreadDemo.exe.config
+C:\2_Work\MyTests\CrossThreadDemo\CrossThreadDemo\bin\Debug\CrossThreadDemo.exe
+C:\2_Work\MyTests\CrossThreadDemo\CrossThreadDemo\bin\Debug\CrossThreadDemo.pdb
+C:\2_Work\MyTests\CrossThreadDemo\CrossThreadDemo\obj\Debug\CrossThreadDemo.Form1.resources
+C:\2_Work\MyTests\CrossThreadDemo\CrossThreadDemo\obj\Debug\CrossThreadDemo.Form2.resources
+C:\2_Work\MyTests\CrossThreadDemo\CrossThreadDemo\obj\Debug\CrossThreadDemo.Form3.resources
+C:\2_Work\MyTests\CrossThreadDemo\CrossThreadDemo\obj\Debug\CrossThreadDemo.Properties.Resources.resources
+C:\2_Work\MyTests\CrossThreadDemo\CrossThreadDemo\obj\Debug\CrossThreadDemo.csproj.GenerateResource.Cache
+C:\2_Work\MyTests\CrossThreadDemo\CrossThreadDemo\obj\Debug\CrossThreadDemo.exe
+C:\2_Work\MyTests\CrossThreadDemo\CrossThreadDemo\obj\Debug\CrossThreadDemo.pdb
+C:\2_Work\MyTests\CrossThreadDemo\CrossThreadDemo\obj\Debug\CrossThreadDemo.csprojResolveAssemblyReference.cache
+C:\2_Work\MyTests\CrossThreadDemo\CrossThreadDemo\obj\Debug\CrossThreadDemo.Form4.resources
