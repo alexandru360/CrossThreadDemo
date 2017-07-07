@@ -80,7 +80,8 @@ namespace WindowsFormsApplication2
                 sr.ReadToEnd();
             }
 
-            this.Invoke(new MethodInvoker(WorkDone));
+            //this.Invoke(new MethodInvoker(WorkDone));
+            this.Invoke(new MethodInvoker(delegate { WorkDone(); }));
         }
     }
 }
